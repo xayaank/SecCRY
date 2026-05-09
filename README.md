@@ -23,6 +23,9 @@ Encrypt text or files
 Decrypt text or SCRY-encrypted files
 View tool information and version details
 
+Dependencies Installation
+pip install -r requirements.txt OR python -m pip install -r requirements.txt
+
 Disclaimer
 This tool is provided as-is without warranty. It has not been independently security audited and should not be treated as guaranteed protection against all threats. Users should always keep backups of important data.
 
