@@ -26,8 +26,10 @@ SecCRY runs in an interactive CLI menu:
 Dependencies Installation:
 `pip install -r requirements.txt` OR `python -m pip install -r requirements.txt`
 
-Disclaimer: This tool is provided as-is without warranty. It has not been independently security audited and should not be treated as guaranteed protection against all threats. Users should always keep backups of important data.
+Disclaimer: SecCRY is provided as-is without warranty. It has not been independently security audited and should not be treated as guaranteed protection against all threats. Users should always keep backups of important data.
+
+Core Contributors: Ayaan Khan (Lead Developer & Publisher) - Suleiman Sheikh (Contributor) - Rajesh Patel (Contributor)
 
 License: PolyForm Noncommercial 1.0.0 (see LICENSE file for full terms)
 
-Core Contributors: Ayaan Khan (Lead Developer & Publisher) - Suleiman Sheikh (Contributor) - Rajesh Patel (Contributor)
+Copyright (c) 2026 Ayaan Khan.
