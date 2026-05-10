@@ -28,6 +28,6 @@ Dependencies Installation:
 
 Disclaimer: This tool is provided as-is without warranty. It has not been independently security audited and should not be treated as guaranteed protection against all threats. Users should always keep backups of important data.
 
-License: MIT License (see LICENSE file for full terms)
+License: PolyForm Noncommercial 1.0.0 (see LICENSE file for full terms)
 
 Core Contributors: Ayaan Khan (Lead Developer & Publisher) - Suleiman Sheikh (Contributor) - Rajesh Patel (Contributor)
