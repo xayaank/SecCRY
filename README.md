@@ -1,6 +1,6 @@
-SCRY — Encryption Container for Text & Files
+SecCRY — Encryption Container for Text & Files
 
-SCRY is a Python encryption utility designed for secure local storage of files and text data. It uses AES-256-GCM for authenticated encryption and Argon2id for secure key derivation from user passwords.
+SecCRY is a Python encryption utility designed for secure local storage of files and text data. It uses AES-256-GCM for authenticated encryption and Argon2id for secure key derivation from user passwords.
 
 Features: 
 • Encrypt and decrypt both files and text
@@ -18,9 +18,9 @@ Security Design:
 • Strict filename and path sanitization prevents unsafe restores
 
 Usage Overview:
-SCRY runs in an interactive CLI menu:
+SecCRY runs in an interactive CLI menu:
 • Encrypt text or files
-• Decrypt text or SCRY-encrypted files
+• Decrypt text or SecCRY-encrypted files
 • View tool information and version details
 
 Dependencies Installation:
